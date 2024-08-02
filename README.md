@@ -7,7 +7,7 @@ Hi guys, I'm **Wuhan Zhang** 😄. I am a programming enthusiast, currently purs
 
 ## 📫 Contact Me on Social Media
 
-[CSDN][-1]  or just ✉️ [Email](mailto:wuhan.zhang@outlook.com)| 💬 [Issue](https://github.com/endNone/endNone/issues/me) Me about everything!
+[CSDN][-1]  or just ✉️ [Email](mailto:wuhan.zhang@outlook.com) | 💬 [Issue](https://github.com/endNone/endNone/issues/me) Me about everything!
 
 ## 💡 Projects with My Work
 
